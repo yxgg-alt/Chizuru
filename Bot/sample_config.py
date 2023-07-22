@@ -1,8 +1,8 @@
 class Config(object):
     LOGGER = True
-    TOKEN = ""
+    TOKEN = "5868970687:AAFN3AAe67rKVYEN8PBiRoUr20cGH2k8Elc"
     DB_URI = ""
-    OWNER_ID = 895373440
+    OWNER_ID = 734788724
 
 
 class Production(Config):
